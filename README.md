@@ -8,3 +8,6 @@ my_plugins:
   vim-gutentags
   YouCompleteMe
 ```
+
+预览
+![image](https://user-images.githubusercontent.com/20872557/137594199-8370dcd8-892e-423d-b9ee-1ae461857a69.png)
