@@ -2,11 +2,11 @@
 
 my_plugins:
 ```
-  tagbar 
-  vim-airline
-  vim-bufferline
-  vim-gutentags
-  YouCompleteMe
+  tagbar    // https://github.com.cnpmjs.org/preservim/tagbar.git
+  vim-airline    // https://github.com.cnpmjs.org/vim-airline/vim-airline.git
+  vim-bufferline    // https://github.com.cnpmjs.org/bling/vim-bufferline.git
+  vim-gutentags    // https://github.com.cnpmjs.org/ludovicchabant/vim-gutentags.git
+  YouCompleteMe    // https://github.com.cnpmjs.org/ycm-core/YouCompleteMe.git
 ```
 
 预览
